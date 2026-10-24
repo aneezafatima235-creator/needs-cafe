@@ -1,0 +1,8 @@
+{
+  "name": " Needs Cafe - Okara",
+  "description": "Artisanal coffee, legendary Oreo shakes, and gourmet bites on MA Jinnah Road, Okara. Dine-in, takeout, and WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
